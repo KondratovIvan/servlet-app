@@ -7,7 +7,7 @@ To run this application you must
 1. Make a Fork of this project (priority) or clone repository
 
 ```bash
-git clone https://github.com/OKaluzny/servletApp.git
+git clone https://github.com/KondratovIvan/servlet-app
 ```
 
 2. Build this application using maven 
